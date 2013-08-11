@@ -1,1 +1,0 @@
-node grader.js
